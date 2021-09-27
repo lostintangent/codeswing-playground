@@ -1,3 +1,7 @@
 {
-   "codeswing.launchBehavior": "newSwing"  
+   "codeswing.launchBehavior": "newSwing",
+   "codeswing.templateGalleries": [
+      "web:basic",
+      "web:components"
+   ]
 }
